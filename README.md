@@ -22,5 +22,5 @@ Finally, since an actual database instance is being brought up we can test featu
 
 ## Run Instructions
 
-1. Start docker daeomon (must be running for tests to run)
+1. Start docker daemon (must be running for tests to run)
 2. Run `go test ./... -v`
